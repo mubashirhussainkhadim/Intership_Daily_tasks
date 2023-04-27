@@ -1,4 +1,4 @@
-package day1april152023;
+package JavaCore;
 
 public class first {
     public static void main(String[] args) {

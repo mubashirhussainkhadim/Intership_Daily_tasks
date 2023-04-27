@@ -1,4 +1,4 @@
-package day1april152023;
+package JavaCore;
 
 import java.util.Scanner;
 
