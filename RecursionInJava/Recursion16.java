@@ -1,4 +1,6 @@
 package RecursionInJava;
+
+
 public class Recursion16 {
     public static void  printPerm(String str ,String permutation ){
         if(str.length() == 0){
@@ -8,11 +10,13 @@ public class Recursion16 {
         for(int i=0; i<str.length(); i++){
             char currchar = str.charAt(i);
             String newString = str.substring(0, i)+ str.substring(i+1);
+            System.out.println(newString);
             printPerm(newString, permutation+currchar);
         }
     }
     public static void main(String[] args) {
         String str = "abc";
         printPerm(str, "");
+        
     }
 }
