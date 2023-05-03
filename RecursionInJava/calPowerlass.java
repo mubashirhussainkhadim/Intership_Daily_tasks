@@ -1,6 +1,6 @@
 package RecursionInJava;
      
-public class Recursion5 {
+public class calPowerlass {
     public static int calPower(int x , int n){
         if (n==0){
             return 1;

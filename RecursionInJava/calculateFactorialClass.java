@@ -1,6 +1,6 @@
 package RecursionInJava;
  
-public class Recursive3 {
+public class calculateFactorialClass {
     public static int calculateFactorial (int n){
         if (n==1 || n==0) {
             return 1;

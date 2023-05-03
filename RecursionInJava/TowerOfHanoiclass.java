@@ -1,7 +1,7 @@
 package RecursionInJava;
 
 
-public class Recursion7 {
+public class TowerOfHanoiclass {
     public static void TowerOfHanoi( int n , String src ,String helper , String dest){
         if (n==1){
             System.out.println("Transfer disk "+ n + " from " +src +" to "+dest);

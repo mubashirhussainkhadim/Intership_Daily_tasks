@@ -1,6 +1,6 @@
 package RecursionInJava;
 
-public class Recursion8 {
+public class printRevclass {
     public static void printRev(String str, int index){
         if(index == 0 ){
             System.out.print(str.charAt(index));

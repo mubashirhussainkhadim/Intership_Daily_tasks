@@ -2,7 +2,7 @@ package RecursionInJava;
 
 import java.util.HashSet;
 
-public class Recursion14 {
+public class subsequencesnotrepitation {
     public static void subsequences(String str , int index ,String newString , HashSet<String> set){
         if(index == str.length()){
            if(set.contains(newString)){

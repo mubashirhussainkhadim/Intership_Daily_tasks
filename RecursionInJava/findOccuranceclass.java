@@ -1,6 +1,6 @@
 package RecursionInJava;
  
-public class Recursion9 {
+public class findOccuranceclass {
     public static int first =-1;
     public static int last = -1;
     public static void findOccurance(String str, int idx, char element){

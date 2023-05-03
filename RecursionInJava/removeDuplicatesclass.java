@@ -1,6 +1,6 @@
 package RecursionInJava;
 
-public class Recurshion12 {
+public class removeDuplicatesclass {
     public static boolean [] map = new boolean[26];
 
     public static void removeDuplicates(String str , int idx , String newString){

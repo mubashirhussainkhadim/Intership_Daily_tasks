@@ -1,6 +1,6 @@
 package RecursionInJava;
     
-public class Recursion1 {
+public class printNumberclass {
     public static void printNumber(int n){
         if (n==6){
             return;

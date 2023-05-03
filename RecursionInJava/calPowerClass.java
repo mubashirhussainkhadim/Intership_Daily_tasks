@@ -1,7 +1,7 @@
 package RecursionInJava;
 
 
-public class Recursion6 {
+public class calPowerClass {
     public static int calPower(int x , int n){
         if (n==0){
             return 1;

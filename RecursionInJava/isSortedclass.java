@@ -1,6 +1,6 @@
 package RecursionInJava;
 
-public class Recursion10 {
+public class isSortedclass {
     public static boolean isSorted(int arr[] , int idx){
         if(idx == arr.length-1){
             return true;

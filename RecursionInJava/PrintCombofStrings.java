@@ -1,5 +1,5 @@
 package RecursionInJava;
-public class Recursion15 {
+public class PrintCombofStrings {
     public static String keypad[] = {".", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tu", "vwx", "yz"};
         public  static void PrintComb(String str , int idx , String combination){
           

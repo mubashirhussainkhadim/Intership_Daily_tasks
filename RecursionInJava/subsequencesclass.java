@@ -1,6 +1,6 @@
 package RecursionInJava;
 
-public class Recursion13 {
+public class subsequencesclass {
     public static void subsequences(String str , int index ,String newString){
         if(index == str.length()){
             System.out.println(newString);

@@ -1,6 +1,6 @@
 package RecursionInJava;
 
-public class Recursion11 {
+public class moveALLTXclass {
        public static void moveALLTX(String str, int idx , int count ,String newString){
         if (idx == str.length()){
             for(int i =0 ; i <count ; i++ ){

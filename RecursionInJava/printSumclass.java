@@ -1,6 +1,6 @@
 package RecursionInJava;
 
-public class Recursion2 {
+public class printSumclass {
     public static void printSum(int i , int n, int sum){
         if (i == n){
             sum = sum + i;
